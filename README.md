@@ -1,4 +1,4 @@
-# <Homework 1 Reafactoring>
+# <Homework 1 Refactoring>
 
 ## Description
 
@@ -13,7 +13,7 @@ No installation required. Go to the URL - https://rquinbar.github.io/edx-homewor
 
 Please click "Search Engine Optimization", "Online Reputation Management" or "Social Media Marketing" on the top right to learn more about those topics.
 
-```md
-![SEO](assets/images/SEO_Links.jpg)
-```
+
+![SEO](/assets/images/SEO_Links.jpg)
+
 
